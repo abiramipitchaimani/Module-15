@@ -1,4 +1,4 @@
-# Ex. No: 15C - Expression Tree with Inorder and Postorder Traversal
+# Ex. No: 15E - Expression Tree with Inorder and Postorder Traversal
 
 ## AIM:
 To write a Python program to build the given expression tree and print the inorder and postorder traversals.
